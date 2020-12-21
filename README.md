@@ -61,19 +61,27 @@ If the game crashes copy the options.ini file to `%APPDATA%\My Battle for Middle
 8. You should add the game to your firewall
 9. You do not need to run the game at this point
 10. Run the 2.01 patch: [./ROTWK/2_PATCH_2.01](./ROTWK/2_PATCH_2.01.exe)
-11. Run the 2.02 patch: [./ROTWK/2_PATCH_2.02](./ROTWK/2_PATCH_2.02.exe)
-12. Attempt to run the game
+11. Run the 2.02 patch: [./ROTWK/3_PATCH_2.02](./ROTWK/2_PATCH_2.02.exe)
+12. Run the 2.02 patch v840 updater: [./ROTWK/4_PATCH_2.02_v840_UPDATER](./ROTWK/4_PATCH_2.02_v840_UPDATER.exe)
+13. Attempt to run the game
 
 ## Troubleshooting
 
-- If the game crashes copy the options.ini file to `%APPDATA%\My Battle for Middle-earth 2 Files\`. Attempt to run the game again.
+- If the game crashes copy the options.ini file to `%APPDATA%\My The Lord of the Rings, The Rise of the Witch-king Files\`. Attempt to run the game again.
 - If the game's resolution looks awful run the 2.02 Switcher (Icon got put on your desktop.)
 
-# AOTR
+# AOTR 5.0
 
 1. Do BFME 2 instructions
 2. Do ROTWK instructions
 3. Run [./AOTR/installer.exe](./AOTR/installer.exe)
+
+# AOTR 6.1
+
+1. Do BFME 2 instructions
+2. Do ROTWK instructions
+3. Use `Patch 2.02 Switcher` to set your patch to `2.0.2 v8.0.1` (in Old 2.02 versions).
+4. Run [./AOTR/installer.exe]
 
 # Multiplayer
 
@@ -94,7 +102,8 @@ If the game crashes copy the options.ini file to `%APPDATA%\My Battle for Middle
 ## AOTR Multiplayer
 
 1. Do the Multiplayer setup instructions up to step 7
-2. You MUST hook ROTWK
-3. Start AOTR
-4. Launch ROTWK by clicking on T3A Online
-5. Go to step 8
+2. You MUST hook ROTWK in the T3A Launcher
+3. Start AOTR through the icon
+4. T3A Online launcher will open.
+5. Click ROTWK
+6. Continue from step 8 in multiplayer.
