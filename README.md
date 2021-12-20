@@ -70,18 +70,12 @@ If the game crashes copy the options.ini file to `%APPDATA%\My Battle for Middle
 - If the game crashes copy the options.ini file to `%APPDATA%\My The Lord of the Rings, The Rise of the Witch-king Files\`. Attempt to run the game again.
 - If the game's resolution looks awful run the 2.02 Switcher (Icon got put on your desktop.)
 
-# AOTR 5.0
-
-1. Do BFME 2 instructions
-2. Do ROTWK instructions
-3. Run [./AOTR/installer.exe](./AOTR/installer.exe)
-
-# AOTR 6.1
+# AOTR 7.1
 
 1. Do BFME 2 instructions
 2. Do ROTWK instructions
 3. Use `Patch 2.02 Switcher` to set your patch to `2.0.2 v8.0.1` (in Old 2.02 versions).
-4. Run [./AOTR/installer.exe]
+4. Run [./AOTR 7.1/installer.exe]
 
 # Multiplayer
 
